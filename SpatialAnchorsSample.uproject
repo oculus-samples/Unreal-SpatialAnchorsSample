@@ -1,12 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{B8BB6BF1-4D34-14C4-4CDE-3AB21DE45FB3}",
+	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "OculusXR",
 			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8313d8d7e7cf4e03a33e79eb757bccba",
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Android"
